@@ -1,6 +1,6 @@
-# 🖼 壁纸工作室 · Hermes Wallpaper Studio
+# 大鲸鱼 · Hermes 壁纸插件
 
-给 **Hermes Agent 桌面端** 的换壁纸插件：自定义底图、玻璃透明度、**动态视频壁纸**、界面字体 / 颜色 / 字号。
+> 🖼 **壁纸工作室（Wallpaper Studio）** —— 给 **Hermes Agent 桌面端** 的换壁纸插件：自定义底图、玻璃透明度、**动态视频壁纸**、界面字体 / 颜色 / 字号。
 纯"磁盘插件"实现——**不修改任何应用文件**，放进目录即热加载，改完即时生效、重启不丢。
 
 > Desktop wallpaper plugin for the Hermes Agent desktop app. Custom backgrounds, glass opacity, **video wallpapers**, and UI font controls. Pure disk-plugin: drop it in, hot-reloads in seconds, zero app files touched.
